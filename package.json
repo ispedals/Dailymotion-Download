@@ -1,0 +1,9 @@
+{
+    "name": "dailymotion-download", 
+    "license": "Public Domain", 
+    "author": "is pedals", 
+    "version": "0.1", 
+    "fullName": "Dailymotion Download", 
+    "id": "jid1-90aVK1dKPX12lQ", 
+    "description": "downloads a video from Dailymotion given a url"
+}
